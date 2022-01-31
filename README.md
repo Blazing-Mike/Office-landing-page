@@ -9,10 +9,10 @@ I recreated this design from A design Bigtank posted on twitter ( Yeah i love ch
 
 ### DESIGN
 
-![](./)
+![](./design.jpg)
 
 
 ### RECREATION
 
-![](./)
+![](./assets/screenshot.jpg)
 
