@@ -14,5 +14,5 @@ I recreated this design from A design Bigtank posted on twitter ( Yeah i love ch
 
 ### RECREATION
 
-![](./assets/screenshot.jpg)
+![](./assets/bvl-landingpage.png)
 
